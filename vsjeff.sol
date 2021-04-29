@@ -1,6 +1,6 @@
 /**
-* VSELON FIGHT Token for jeffxelon.com
-* ELON SIDE  
+* VSJEFF FIGHT Token for jeffxelon.com
+* JEFF SIDE
 */
 
 pragma solidity ^0.6.12;
